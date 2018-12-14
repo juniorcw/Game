@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/Main menu.unity
+    guid: 269b30320b2e7b541841f5b387428636
+  - enabled: 1
+    path: Assets/Scenes/Instruction.unity
+    guid: e074cfeee93e7ae4b8e02e588936a53e
+  - enabled: 1
+    path: Assets/Scenes/First level.unity
+    guid: 3f6ad6d698d844645aeb1f9af5b8b271
+  - enabled: 1
+    path: Assets/Scenes/WELL DONE.unity
+    guid: a9af4757736c30a4b86d220bb246e609
+  - enabled: 1
+    path: Assets/Scenes/Second level.unity
+    guid: f3929af33efbda4448939dc7676a7feb
+  - enabled: 1
+    path: Assets/Scenes/WELL DONE 2.unity
+    guid: ddd5d3d176627614bad79fb25ccb1de4
+  - enabled: 1
+    path: Assets/Scenes/final level .unity
+    guid: 217fc28c829491a4cb972cbcb8d57c95
+  - enabled: 1
+    path: Assets/Scenes/WELL DONE 3.unity
+    guid: 6e3481e0ce5913f45a7f76003ddeae71
+  - enabled: 1
+    path: Assets/Scenes/Boss.unity
+    guid: 47eeb125b44575f4693192aa9a28a687
+  - enabled: 1
+    path: Assets/Scenes/Congraulations.unity
+    guid: 7da19f03d537ea84383613adceec5761
+  m_configObjects: {}
